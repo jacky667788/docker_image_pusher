@@ -1,1 +1,1 @@
-milvusdb/milvus:0.10.4-cpu
+milvusdb/milvus
