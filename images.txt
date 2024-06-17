@@ -1,1 +1,1 @@
-milvusdb/milvus:1.1.0-gpu-d050721-5e559c
+milvusdb/milvus:0.10.0-gpu-d061620-5f3c00
